@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "POS Print Bill",
-    'author': 'REAM Vitou',
+    'name': "POS Print Bill Button",
+    'author': 'V Technologies',
     'website': 'https://odoocambodia.com',
     'maintainer': 'V Technologies',
     'version': '18.0.0.1',
     'category': 'Point of Sale',
     'sequence': 75,
-    'summary': 'POS Print Bill',
+    'summary': 'POS Print Bill Button Near Action Button',
     #'price':'10.0',
     #'currency':'USD',
     # 'description': "Display Sale Price in POS",
