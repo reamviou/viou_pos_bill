@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
     'name': "POS Print Bill Button",
-    'author': 'Ream Vitou',
-    'website': 'https://odoo.com',
-    'maintainer': 'Ream Vitou',
+    'author': 'V Technologies',
+     'website': 'https://apps.odoo.com/apps/modules/browse?search=vitou',
+     'maintainer': 'V Technologies',
     'version': '19.0.1.1.1',
     'category': 'Point of Sale',
     'sequence': 75,
